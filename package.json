@@ -1,0 +1,21 @@
+{
+  "name": "@bbcode/parser",
+  "version": "0.0.0",
+  "description": "Type-safe BBCode to HTML and vise versa parser.",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "@types/node": "^20.11.23",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bbcode",
+    "html",
+    "parser",
+    "typescript"
+  ],
+  "author": "Konotorii",
+  "license": "MIT"
+}
